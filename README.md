@@ -1,4 +1,2 @@
 # REACT100TOPSPOTS
-# REACT100TOPSPOTS
-# REACT100TOPSPOTS
-# REACT100SDTOPSPOTS
+NOW LINK https://react100-san-diego-top-spots.loganfreedman176.vercel.app
